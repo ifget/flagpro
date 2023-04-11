@@ -1,1 +1,5 @@
-package flagpro
+package main
+
+func main() {
+
+}
